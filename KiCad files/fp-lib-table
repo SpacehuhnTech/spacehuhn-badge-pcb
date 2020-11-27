@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SpaceBADGE)(type KiCad)(uri "$(KIPRJMOD)/SpaceBADGE.pretty")(options "")(descr ""))
+  (lib (name BADGEPIN)(type KiCad)(uri "D:/kicad projects/spacehunh/BADGEPIN")(options "")(descr ""))
+)
